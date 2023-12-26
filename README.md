@@ -1,1 +1,0 @@
-# automate-gcs-to-bq
